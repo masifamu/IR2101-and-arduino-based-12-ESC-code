@@ -1,0 +1,6 @@
+#ifndef __PREPROCESSORSWITCHES_H__
+#define __PREPROCESSORSWITCHES_H__
+
+// #define ENABLE_HALL_SENSOR
+
+#endif
